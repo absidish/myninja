@@ -1,0 +1,8 @@
+controllers/RestController.class
+controllers/dao/AbstractDao.class
+controllers/model/User.class
+conf/Module.class
+conf/Routes.class
+controllers/dao/UserDao.class
+controllers/ApplicationController.class
+filter/LoginFilter.class
